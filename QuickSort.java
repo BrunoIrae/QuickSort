@@ -124,7 +124,7 @@ public class QuickSort {
     }
 
     public static void main(String[] args) {
-        int[] vetor = { 3, 2, 8, 1, 5 };
+        int[] vetor = {9, 25, 10, 18, 5, 7, 15, 3};
 
         System.out.print("Vetor original: ");
         imprimirVetor(vetor);
